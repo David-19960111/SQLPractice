@@ -1,1 +1,2 @@
 # SQLPractice
+Practica de SQL 
